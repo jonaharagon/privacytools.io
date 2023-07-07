@@ -154,6 +154,7 @@ In general, we define office suites as applications which could reasonably act a
     [:octicons-info-16:](https://github.com/PrivateBin/PrivateBin/wiki/FAQ){ .card-link title=Documentation}
     [:octicons-code-16:](https://github.com/PrivateBin/PrivateBin){ .card-link title="Source Code" }
 
+### Paaster
 
 !!! recommendation
 
