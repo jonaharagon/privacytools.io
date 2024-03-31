@@ -1,18 +1,20 @@
 ---
 meta_title: "Privacy Guides: Your Independent Privacy and Security Resource"
 template: overrides/home.en.html
+social:
+  cards_layout: home
 hide:
   - navigation
   - toc
   - feedback
 schema:
-  - 
+  -
     "@context": https://schema.org
     "@type": Organization
     "@id": https://www.privacyguides.org/
     name: Privacy Guides
     url: https://www.privacyguides.org/en/about/
-    logo: https://www.privacyguides.org/en/assets/brand/png/square/pg-yellow.png
+    logo: https://www.privacyguides.org/en/assets/brand/logos/png/square/pg-yellow.png
     sameAs:
       - https://twitter.com/privacy_guides
       - https://github.com/privacyguides
@@ -20,7 +22,7 @@ schema:
       - https://opencollective.com/privacyguides
       - https://www.youtube.com/@privacyguides
       - https://mastodon.neat.computer/@privacyguides
-  - 
+  -
     "@context": https://schema.org
     "@type": WebSite
     name: Privacy Guides
@@ -59,7 +61,7 @@ Trying to protect all your data from everyone all the time is impractical, expen
 
 ## We need you! Here's how to get involved:
 
-[:simple-discourse:](https://discuss.privacyguides.net/){ title="Join our Forum" }
+[:simple-discourse:](https://discuss.privacyguides.net){ title="Join our Forum" }
 [:simple-mastodon:](https://mastodon.neat.computer/@privacyguides){ rel=me title="Follow us on Mastodon" }
 [:material-book-edit:](https://github.com/privacyguides/privacyguides.org){ title="Contribute to this website" }
 [:material-translate:](https://matrix.to/#/#pg-i18n:aragon.sh){ title="Help translate this website" }
