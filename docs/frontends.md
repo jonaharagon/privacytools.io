@@ -11,6 +11,38 @@ If you choose to self-host these frontends, it is important that you have other 
 
 When you are using an instance run by someone else, make sure to read the privacy policy of that specific instance. They can be modified by their owners and therefore may not reflect the default policy. Some instances have [Tor](tor.md) .onion addresses which may grant some privacy as long as your search queries don't contain PII.
 
+## Reddit
+
+### Redlib
+
+<div class="admonition recommendation" markdown>
+
+![Redlib logo](assets/img/frontends/redlib.svg){ align=right }
+
+**Redlib** is an open-source frontend to the [Reddit](https://reddit.com) website that is also self-hostable.
+
+There are a number of public instances, with some instances having [Tor](tor.md) onion services support.
+
+[:octicons-repo-16: Repository](https://github.com/redlib-org/redlib){ .md-button .md-button--primary }
+[:octicons-server-16:](https://github.com/redlib-org/redlib-instances/blob/main/instances.md){ .card-link title="Public Instances"}
+[:octicons-info-16:](https://github.com/redlib-org/redlib?tab=readme-ov-file#table-of-contents){ .card-link title=Documentation}
+[:octicons-code-16:](https://github.com/redlib-org/redlib){ .card-link title="Source Code" }
+
+</div>
+
+<div class="admonition note" markdown>
+<p class="admonition-title">Note</p>
+
+The [Old Reddit](https://old.reddit.com) website doesn't require as much JavaScript as the new Reddit website does, but it has recently blocked access to IP addresses reserved for public VPNs. You can use Old Reddit in conjunction with the [Tor](tor.md) Onion that was [launched in October 2022](https://forum.torproject.org/t/reddit-onion-service-launch/5305) at [https://old.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion](https://old.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion).
+
+</div>
+
+<div class="admonition tip" markdown>
+<p class="admonition-title">Tip</p>
+
+Redlib is useful if you want to disable JavaScript in your browser, such as [Tor Browser](tor.md#tor-browser) on the Safest security level.
+</div>
+
 ## TikTok
 
 ### ProxiTok
@@ -122,10 +154,11 @@ By default, Yattee blocks all YouTube advertisements. In addition, Yattee option
 
 LibreTube allows you to store your subscription list and playlists locally on your Android device, or to an account on your Piped instance of choice, which allows you to access them seamlessly on other devices as well.
 
-[:octicons-home-16: Homepage](https://libre-tube.github.io){ .md-button .md-button--primary }
-[:octicons-eye-16:](https://github.com/libre-tube/LibreTube#privacy-policy-and-disclaimer){ .card-link title="Privacy Policy" }
-[:octicons-info-16:](https://github.com/libre-tube/LibreTube#readme){ .card-link title=Documentation}
+[:octicons-home-16: Homepage](https://libretube.dev){ .md-button .md-button--primary }
+[:octicons-eye-16:](https://github.com/libre-tube/LibreTube/blob/master/PRIVACY_POLICY.md){ .card-link title="Privacy Policy" }
+[:octicons-info-16:](https://libretube.dev/#faq){ .card-link title=Documentation}
 [:octicons-code-16:](https://github.com/libre-tube/LibreTube){ .card-link title="Source Code" }
+[:octicons-heart-16:](https://github.com/libre-tube/LibreTube#donate){ .card-link title=Contribute }
 
 <details class="downloads" markdown>
 <summary>Downloads</summary>
@@ -143,7 +176,7 @@ When using LibreTube, your IP address will be visible to the [Piped](https://git
 
 </div>
 
-By default, LibreTube blocks all YouTube advertisements. Additionally, Libretube uses [SponsorBlock](https://sponsor.ajay.app) to help you skip sponsored video segments. You are able to fully configure the types of segments that SponsorBlock will skip, or disable it completely. There is also a button on the video player itself to disable it for a specific video if desired.
+By default, LibreTube blocks all YouTube advertisements. Additionally, LibreTube uses [SponsorBlock](https://sponsor.ajay.app) to help you skip sponsored video segments. You are able to fully configure the types of segments that SponsorBlock will skip, or disable it completely. There is also a button on the video player itself to disable it for a specific video if desired.
 
 ### NewPipe (Android)
 
@@ -157,7 +190,7 @@ Your subscription list and playlists are saved locally on your Android device.
 
 [:octicons-home-16: Homepage](https://newpipe.net){ .md-button .md-button--primary }
 [:octicons-eye-16:](https://newpipe.net/legal/privacy){ .card-link title="Privacy Policy" }
-[:octicons-info-16:](https://teamnewpipe.github.io/documentation){ .card-link title=Documentation}
+[:octicons-info-16:](https://newpipe.net/FAQ){ .card-link title=Documentation}
 [:octicons-code-16:](https://github.com/TeamNewPipe/NewPipe){ .card-link title="Source Code" }
 [:octicons-heart-16:](https://newpipe.net/donate){ .card-link title=Contribute }
 
@@ -225,8 +258,8 @@ Invidious is useful if you want to disable JavaScript in your browser, such as [
 Piped requires JavaScript in order to function and there are a number of public instances.
 
 [:octicons-repo-16: Repository](https://github.com/TeamPiped/Piped){ .md-button .md-button--primary }
-[:octicons-server-16:](https://piped.kavin.rocks/preferences#ddlInstanceSelection){ .card-link title="Public Instances"}
-[:octicons-info-16:](https://piped-docs.kavin.rocks){ .card-link title=Documentation}
+[:octicons-server-16:](https://github.com/TeamPiped/Piped/wiki/Instances){ .card-link title="Public Instances"}
+[:octicons-info-16:](https://docs.piped.video/docs){ .card-link title=Documentation}
 [:octicons-code-16:](https://github.com/TeamPiped/Piped){ .card-link title="Source Code" }
 [:octicons-heart-16:](https://github.com/TeamPiped/Piped#donations){ .card-link title=Contribute }
 
@@ -251,6 +284,8 @@ Recommended frontends...
 - Must be self-hostable.
 - Must provide all basic website functionality available to anonymous users.
 
-We only consider frontends for websites which are...
+We only consider frontends if one of the following is true for a platform:
 
 - Normally only accessible with JavaScript enabled.
+- Normally only accessible with an account.
+- Blocks access from commercial [VPNs](vpn.md).

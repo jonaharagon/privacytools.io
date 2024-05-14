@@ -22,7 +22,7 @@ Nextcloud is [still a recommended tool](productivity.md) for self-hosting a file
 
 ![Proton Drive logo](assets/img/cloud/protondrive.svg){ align=right }
 
-**Proton Drive** is a Swiss encrypted cloud storage provider from the popular encrypted email provider [Proton Mail](email.md#proton-mail).
+**Proton Drive** is a Swiss encrypted cloud storage provider from the popular encrypted email provider [Proton Mail](email.md#proton-mail). The initial free storage is limited to 2GB, but with completion of certain steps, additional storage can be obtained up to 5GB.
 
 [:octicons-home-16: Homepage](https://proton.me/drive){ class="md-button md-button--primary" }
 [:octicons-eye-16:](https://proton.me/legal/privacy){ .card-link title="Privacy Policy" }
@@ -45,7 +45,7 @@ The Proton Drive web application has been independently audited by Securitum in 
 
 > Auditors identified two low-severity vulnerabilities. Additionally, five general recommendations were reported. At the same time, we confirm that no important security issues were identified during the pentest.
 
-Proton Drive's brand new mobile clients have not yet been publicly audited by a third-party.
+Proton Drive's brand new mobile clients have not yet been publicly audited by a third party.
 
 ## Tresorit
 
@@ -85,6 +85,39 @@ Tresorit has received a number of independent security audits:
 [^1]: [ISO/IEC 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001):2013 compliance relates to the company's [information security management system](https://en.wikipedia.org/wiki/Information_security_management) and covers the sales, development, maintenance and support of their cloud services.
 
 They have also received the Digital Trust Label, a certification from the [Swiss Digital Initiative](https://www.efd.admin.ch/efd/en/home/digitalisierung/swiss-digital-initiative.html) which requires passing [35 criteria](https://digitaltrust-label.swiss/criteria) related to security, privacy, and reliability.
+
+## Peergos
+
+<div class="admonition recommendation" markdown>
+
+![Peergos logo](assets/img/cloud/peergos.svg){ align=right }
+
+**Peergos** is a decentralized protocol and open-source platform for storage, social media, and applications. It provides a secure and private space where users can store, share, and view their photos, videos, documents, etc. Peergos secures your files with quantum-resistant end-to-end encryption and ensures all data about your files remains private. It is built on top of [IPFS (InterPlanetary File System)](https://ipfs.tech).
+
+[:octicons-home-16: Homepage](https://peergos.org){ .md-button .md-button--primary }
+[:octicons-eye-16:](https://peergos.net/privacy.html){ .card-link title="Privacy Policy" }
+[:octicons-info-16:](https://book.peergos.org){ .card-link title="Documentation" }
+[:octicons-code-16:](https://github.com/Peergos/Peergos){ .card-link title="Source Code" }
+
+<details class="downloads" markdown>
+<summary>Downloads</summary>
+
+- [:octicons-globe-16: Web](https://peergos.net)
+- [:simple-windows11: Windows](https://github.com/Peergos/web-ui/releases)
+- [:simple-apple: macOS](https://github.com/Peergos/web-ui/releases)
+- [:simple-linux: Linux](https://github.com/Peergos/web-ui/releases)
+
+</details>
+
+</div>
+
+Peergos is primarily a web app, but you can self-host the server either as a local cache for your remote Peergos account, or as a standalone storage server negating the need to register for a remote account and subscription. The Peergos server is a `.jar` file, which means the Java 17+ Runtime Environment ([OpenJDK download](https://azul.com/downloads)) should be installed on your machine to get it working.
+
+Running a local version of Peergos alongside a registered account on their paid, hosted service allows you to access your Peergos storage without any reliance on DNS or TLS certificate authorities, and keep a copy of your data backed up to their cloud. The user experience should be the same whether you run their desktop server or just use their hosted web interface.
+
+Peergos was [audited](https://cure53.de/pentest-report_peergos.pdf) by Cure53 in September 2019, and all found issues were subsequently fixed.
+
+Also, the Android app is not available but it is [in the works](https://discuss.privacyguides.net/t/peergos-private-storage-sharing-social-media-and-application-platform/11825/25). The current workaround is to use the mobile [PWA](https://peergos.net) instead.
 
 ## Criteria
 

@@ -45,7 +45,7 @@ Privacy.com gives information about the merchants you purchase from to your bank
 ![MySudo logo](assets/img/financial-services/mysudo.svg#only-light){ align=right }
 ![MySudo logo](assets/img/financial-services/mysudo-dark.svg#only-dark){ align=right }
 
-**MySudo** provides up to 9 virtual cards depending on the plan you purchase. Their paid plans additionally include functionality which may be useful for making purchases privately, such as virtual phone numbers and email addresses, although we typically recommend other [email aliasing providers](email.md) for extensive email aliasing use.
+**MySudo** provides up to 9 virtual cards depending on the plan you purchase. Their paid plans additionally include functionality which may be useful for making purchases privately, such as virtual phone numbers and email addresses, although we typically recommend other [email aliasing providers](email-aliasing.md) for extensive email aliasing use.
 
 [:octicons-home-16: Homepage](https://mysudo.com){ .md-button .md-button--primary }
 [:octicons-eye-16:](https://anonyome.com/privacy-policy){ .card-link title="Privacy Policy" }
@@ -84,6 +84,7 @@ These services allow you to purchase gift cards for a variety of merchants onlin
 
 </div>
 
+<!-- markdownlint-disable-next-line -->
 ### Criteria
 
 **Please note we are not affiliated with any of the projects we recommend.** In addition to [our standard criteria](about/criteria.md), we have developed a clear set of requirements to allow us to provide objective recommendations. We suggest you familiarize yourself with this list before choosing to use a project, and conduct your own research to ensure it's the right choice for you.

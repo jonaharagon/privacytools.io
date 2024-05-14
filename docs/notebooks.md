@@ -40,6 +40,8 @@ If you are currently using an application like Evernote, Google Keep, or Microso
 
 </div>
 
+Standard Notes has [joined Proton AG](https://standardnotes.com/blog/joining-forces-with-proton) as of April 10, 2024.
+
 ### Notesnook
 
 <div class="admonition recommendation" markdown>
@@ -65,12 +67,12 @@ If you are currently using an application like Evernote, Google Keep, or Microso
 - [:simple-linux: Linux](https://notesnook.com/downloads)
 - [:simple-firefoxbrowser: Firefox](https://notesnook.com/notesnook-web-clipper)
 - [:simple-googlechrome: Chrome](https://chrome.google.com/webstore/detail/notesnook-web-clipper/kljhpemdlcnjohmfmkogahelkcidieaj)
+- [:octicons-globe-16: Web](https://app.notesnook.com)
+- [:simple-flathub: Flathub](https://flathub.org/apps/com.notesnook.Notesnook)
 
 </details>
 
 </div>
-
-Notesnook only allows local note encryption with the [private vault](https://help.notesnook.com/lock-notes-with-private-vault) feature on their pro plan, otherwise your notes are not stored encrypted on your device. Your notes are always encrypted before being synced to their servers with keys which only you have access to.
 
 ### Joplin
 
@@ -152,6 +154,8 @@ Cryptee offers 100MB of storage for free, with paid options if you need more. Si
 ## Criteria
 
 **Please note we are not affiliated with any of the projects we recommend.** In addition to [our standard criteria](about/criteria.md), we have developed a clear set of requirements to allow us to provide objective recommendations. We suggest you familiarize yourself with this list before choosing to use a project, and conduct your own research to ensure it's the right choice for you.
+
+### Minimum Requirements
 
 - Clients must be open source.
 - Any cloud sync functionality must be E2EE.
