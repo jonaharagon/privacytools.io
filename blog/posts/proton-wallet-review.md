@@ -1,5 +1,6 @@
 ---
 title: "Proton Wallet Review: Is Proton Losing Touch?"
+description: "It may well be that Proton Wallet is the easiest way to start using Bitcoin, but is a Bitcoin wallet the solution people need to improve their financial privacy?"
 date:
     created: 2024-09-08
 categories:
