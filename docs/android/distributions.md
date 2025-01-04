@@ -1,5 +1,5 @@
 ---
-meta_title: "The Best Custom Android OSes (aka Custom ROMs) - Privacy Guides"
+meta_title: "The Best Custom Android OS's - Privacy Guides"
 title: "Alternative Distributions"
 description: You can replace the operating system on your Android phone with these secure and privacy-respecting alternatives.
 schema:
@@ -26,13 +26,15 @@ robots: nofollow, max-snippet:-1, max-image-preview:large
 - [:material-target-account: Targeted Attacks](../basics/common-threats.md#attacks-against-specific-individuals){ .pg-red }
 - [:material-bug-outline: Passive Attacks](../basics/common-threats.md#security-and-privacy){ .pg-orange }
 
-A **custom Android-based operating system** (often known as a **custom ROM**) is a popular way to achieve higher levels of privacy and security on your device. This is in contrast to the "stock" version of Android which comes with your phone from the factory, and is often deeply integrated with Google Play Services.
+A **custom Android-based operating system** (often mistakenly called a ROM) can be a way to achieve a higher level of privacy and security on your device. This is in contrast to the "stock" version of Android which comes with your phone from the factory, and is often deeply integrated with Google Play Services as well as other vendor software.
 
-We recommend installing one of these custom Android operating systems on your device, listed in order of preference, depending on your device's compatibility with these operating systems.
+We recommend installing GrapheneOS if you have a Google Pixel as it provides improved security hardening and additional privacy features. The reasons we don't list other OS's or devices are as follows:
 
-## AOSP Derivatives
+- These OS's and the devices on which they're installed often have [weaker security](index.md#install-a-custom-distribution).
+- Support for these OS's and/or devices may simply be dropped when the maintainer loses interest or upgrades their device, which is in contrast to the predictable [support cycle](https://grapheneos.org/faq#device-lifetime) that GrapheneOS follows.
+- These OS's simply have few or no notable privacy or security features that make installing them worthwhile.
 
-### GrapheneOS
+## GrapheneOS
 
 <div class="admonition recommendation" markdown>
 
