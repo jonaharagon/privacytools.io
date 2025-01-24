@@ -1,6 +1,7 @@
 ---
 date:
     created: 2025-01-23T19:15:00
+    updated: 2025-01-27T19:15:00
 categories:
     - Tutorials
 authors:
@@ -46,6 +47,21 @@ There are plenty of risks you should consider if you use your smartphone at a pr
 
 Like all of our guides, we are going to cover the general best practices and provide helpful tips, but your individual situation may be different. You should always research and plan according to what you specifically are doing, and if you need legal advice you should always consult a qualified and licensed attorney.
 
+## Burner Phones
+
+In an ideal scenario, you would bring a separate phone with a separate cell plan to the protest. Cell phones are generally tracked by law enforcement using two identifiers:
+
+1. Your **IMSI**, which uniquely identifies your SIM card
+2. Your **IMEI**, which uniquely identifies your phone
+
+Thus, simply using a prepaid SIM in your primary/personal device is not a foolproof method of avoiding tracking, because your IMEI is still correlatable between networks.
+
+If you buy a secondary device for this purpose, **do not activate or power it on at home**. The location of a phone is tracked by network carriers for at least a year at minimum, but you should assume that location history is just kept forever. Therefore, you should activate and set up the device in a very public place that is not significant to your daily life, then power it off until the protest. You don't want the phone's location to ever be recorded at your home or workplace.
+
+You will also want to make sure you do not identify yourself when purchasing a cellular plan. This is highly dependent on your country, but many prepaid plans will not require any identification to activate. There are also some global eSIM providers which will accept payment without the need to identify yourself to them.
+
+Using a secondary device only at the protest also allows you to leave your primary device powered on and at home. This potentially provides some plausible deniability, if someone requests the location of your phone during the time of the event later.
+
 ## Secure Your Device
 
 If your phone falls into the wrong hands, the information on it could be hugely damaging to yourself or others. Make sure you've taken the necessary steps to prevent it from being broken into.
@@ -89,6 +105,14 @@ On Android:
     - Select **Don't show any notifications**
 4. Switch **Sensitive notifications** to **off**
 
+### Minimize Your Stored Data
+
+The best way to protect your data is to not have it on your phone in the first place. If you're using a secondary device, simply don't install anything other than what will be absolutely necessary during the protest, like a secure messenger.
+
+Otherwise, delete any cloud storage apps you don't need access to during the protest. If you're able to delete an app and then download it later and log in without experiencing any data loss, then that app probably doesn't *need* to be on your phone all the time.
+
+Some [password managers](https://www.privacyguides.org/en/passwords/) have the option to temporarily remove certain vaults from your devices, 1Password calls this [Travel Mode](https://support.1password.com/travel-mode/) for example. You can do this manually as well, by having a separate password manager or vault with only the essentials you will need at the time, and removing your primary password manager from your device for the duration of the event.
+
 ### Disable Lock Screen Actions
 
 In a similar vein, any functionality you have enabled while your device is unlocked can pose a security risk. It is always best practice to reduce your attack surface by disabling these options whenever possible. Even though these features are typically designed to not pose a security risk to your data, they have been known to be exploited in the past to bypass lock screens and other security features.
@@ -131,7 +155,9 @@ You should assume that any device with AirDrop enabled is constantly broadcastin
 
 ### Lock Down Your Network
 
-Your phone signals can be used to track you even if you don't make a call or send a text. Some law enforcement agencies use "stingrays," devices which can impersonate a cell tower to track visitors to an area. While the capabilities of the most modern ones isn't fully known, you should definitely protect yourself from the subset of stingrays which abuse the lower security standards of older, 2G networks.
+Your phone signals can be used to track you even if you don't make a call or send a text. Some law enforcement agencies use "stingrays," devices which can impersonate a cell tower to track visitors to an area. It is speculated that more advanced ones can intercept unencrypted text messages and phone calls as well, making the use of an [encrypted messenger](#use-signal) during the event even more critical.
+
+While the capabilities of the most modern ones isn't fully known, you should definitely protect yourself from the subset of stingrays which abuse the lower security standards of older, 2G networks.
 
 On Android:
 
@@ -155,6 +181,14 @@ Note that enabling [Lockdown Mode](https://www.privacyguides.org/articles/2022/1
 Even after mitigating the risks of 2G networks, your cellular activity can still be tracked. If not by law enforcement then by your carrier, who will likely be responsive to law enforcement's requests for data after the fact.
 
 To prevent this, you should keep your phone turned off or use Airplane Mode to disable cellular connections whenever possible. Ideally you should only connect to networks in an emergency situation to communicate with others in your group, otherwise keeping messages and network transmissions to a minimum is key.
+
+If you absolutely need internet connectivity and it's possible, you should keep Airplane Mode on and connect to a public Wi-Fi network instead, which brings me to:
+
+### Use Public Wi-Fi
+
+If you're able, scope out businesses in the area that provide public Wi-Fi in advance. This is better than using cellular service, because less information about your device is shared with Wi-Fi networks as opposed to cell towers. Most modern phones support MAC address randomization, which makes it even harder to correlate your cell phone's connections between different Wi-Fi access points.
+
+There is a danger that public Wi-Fi services will be set up by authorities or others in the area to track protesters. You could consider using a [VPN service](https://www.privacyguides.org/en/vpn/) while connected to them to minimize the amount of metadata about your traffic that the Wi-Fi operator is able to collect.
 
 ### Disable Location Services
 
@@ -259,3 +293,7 @@ The Signal app also has built-in tools for photo editing and blurring. You can s
 Photos have hidden information, or *metadata*, embedded in them which include the type of phone/camera you used, the photo's location, and other potentially sensitive data.
 
 You should use a [metadata removal tool](https://www.privacyguides.org/en/data-redaction/) to remove this data from images before you share them with others. If you send a photo to someone using Signal, that app removes this metadata automatically.
+
+---
+
+**Update (2025-01-27):** This article has been updated based on some community feedback, notably I added the [Burner Phones](#burner-phones), [Minimize Your Stored Data](#minimize-your-stored-data), and [Use Public Wi-Fi](#use-public-wi-fi) sections.
