@@ -229,7 +229,7 @@ We also think it's better for the security of the VPN provider's private keys if
 
 #### :material-check:{ .pg-green } Independently Audited
 
-Mullvad has had multiple [independent audits](https://mullvad.net/en/blog/tag/audits).
+Mullvad has had multiple [independent audits](https://mullvad.net/en/blog/tag/audits) and has publicly announced their endeavors to conduct [annual audits](https://mullvad.net/en/blog/no-pii-or-privacy-leaks-found-cure53s-infrastructure-audit) of their apps and infrastructure.
 
 #### :material-check:{ .pg-green } Open-Source Clients
 
