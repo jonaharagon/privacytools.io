@@ -154,7 +154,7 @@ We also think it's better for the security of the VPN provider's private keys if
 
 #### :material-check:{ .pg-green } Independently Audited
 
-IVPN has had multiple [independent audits](https://www.ivpn.net/en/blog/tags/audit/).
+IVPN has had multiple [independent audits](https://www.ivpn.net/en/blog/tags/audit) since 2019 and has publicly announced their commitment to [annual security audits](https://www.ivpn.net/blog/ivpn-apps-security-audit-concluded).
 
 #### :material-check:{ .pg-green } Open-Source Clients
 
