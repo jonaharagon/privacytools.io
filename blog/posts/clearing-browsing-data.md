@@ -26,9 +26,7 @@ Website cache data refers to offline website data that your browser stores. By p
 
 Similarly, your browsing history must be deleted. As its name suggest, your web browser keeps a record of all visited websites offline. Your internet service provider could still view your history; however, you might want to prevent access from someone living with you.
 
-## Clearing Browsing Data
-
-### Google Chrome
+## Clearing Browsing Data on Google Chrome
 
 To start, ****launch**** Google Chrome. On the upper right-hand corner, click on the ****[placeholder three dots] icon**** to see a list of options. Then, click on ****Settings****
 
@@ -65,7 +63,7 @@ After making any necessary changes, click ****Delete data****.
 _Screenshot: Google Chrome Settings_
 
 
-### Mozilla Firefox
+## Clearing Browsing Data on Firefox
 
 Start by launching ****Firefox****. On the upper right-hand corner, click on the ****[placeholder three bars] icon**** to see a list of options. There, click on ****Settings****.
 
@@ -97,7 +95,7 @@ _Screenshot: Firefox Settings_
 
 Click on ****Clear data**** if you prefer the former. Like Google Chrome, you can chose what types of data to delete and its time range. After making your selection, click ****Clear**** to finalize the process.
 
-### Apple Safari
+## Clearing Browsing Data on Safari
 
 Unlike Chrome and Firefox, Safari separates history settings from its privacy settings. For the purposes of this guide, we will delete browsing history first.
 
