@@ -13,7 +13,7 @@ description: A beginner's guide to clearing browsing data - such as cookies, web
 schema_type: AnalysisNewsArticle
 ---
 # How to Clear Your Browsing Data on Chrome, Firefox, and Safari
-![...assets/images/clearing-browsing-data/dimmis-vart-JPu345g_OYM-unsplash.jpg]
+![..assets/images/clearing-browsing-data/dimmis-vart-JPu345g_OYM-unsplash.jpg]
 _Credit: Unsplashed_
 
 Your browsing data — such as cache, cookies, and browsing history — can accumulate over time, potentially damaging your privacy. Whether you trying to free up storage, limit tracking, or protect yourself from digital forensics, clearing browsing data is an important first step on your privacy journey. In this guide, we will explain how to clear your browsing data on three popular web browsers: Chrome, Firefox, and Safari.
