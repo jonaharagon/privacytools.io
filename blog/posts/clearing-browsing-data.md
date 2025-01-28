@@ -32,27 +32,27 @@ Similarly, your browsing history must be deleted. As its name suggest, your web 
 
 To start, ****launch**** Google Chrome. On the upper right-hand corner, click on the ****[placeholder three dots] icon**** to see a list of options. Then, click on ****Settings****
 
-![...assets/images/clearing-browsing-data/chrome1.png]
+![Article cover photo showing baked cookies](../assets/images/clearing-browsing-data/chrome1.png]
 _Screenshot: Google Home Page_
 
 You should see the following menu.
 
-![...assets/images/clearing-browsing-data/chromesettings.png]
+![Article cover photo showing baked cookies](../assets/images/clearing-browsing-data/chromesettings.png]
 _Screenshot: Google Chrome Settings_
 
 On the left, navigate to ****Privacy and Security****. You should see the following screen.
 
-![...assets/images/clearing-browsing-data/chrome.png]
+![Article cover photo showing baked cookies](../assets/images/clearing-browsing-data/chrome.png]
 _Screenshot: Google Chrome Settings_
 
 Click ****Delete browsing data.**** Here, you can check whether to clear your ****browsing history****, ****cookies****, and ****cached images & file****s. Chrome also allows you select the ****time range**** of the data marked for deletion.
 
-![...assets/images/clearing-browsing-data/chromesettings1.png]
+![Article cover photo showing baked cookies](../assets/images/clearing-browsing-data/chromesettings1.png]
 _Screenshot: Google Chrome Settings_
 
 After making any necessary changes, click ****Delete data****.
 
-![blog/assets/images/clearing-browsing-data/chromedelete.png]
+![Article cover photo showing baked cookies](../assets/images/clearing-browsing-data/chromedelete.png]
 _Screenshot: Google Chrome Settings_
 
 ### Mozilla Firefox
