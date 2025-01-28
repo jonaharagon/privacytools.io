@@ -47,7 +47,7 @@ _Screenshot: Google Chrome Settings_
 On the left, navigate to ****Privacy and Security****. You should see the following screen.
 
 
-![alttext](../assets/images/clearing-browsing-data/chrome.png])
+![alttext](../assets/images/clearing-browsing-data/chrome.png)
 _Screenshot: Google Chrome Settings_
 
 
