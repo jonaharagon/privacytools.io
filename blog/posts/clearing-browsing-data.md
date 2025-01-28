@@ -52,7 +52,7 @@ _Screenshot: Google Chrome Settings_
 
 After making any necessary changes, click ****Delete data****.
 
-![...blog/assets/images/clearing-browsing-data/chromedelete.png]
+![blog/assets/images/clearing-browsing-data/chromedelete.png]
 _Screenshot: Google Chrome Settings_
 
 ### Mozilla Firefox
