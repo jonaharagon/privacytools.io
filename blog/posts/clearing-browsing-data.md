@@ -20,11 +20,11 @@ Your browsing data — such as cache, cookies, and browsing history — can accu
 
 ## Understanding Browsing Data
 
-Cookies are small files that a website generates and sends to a browser. They associate browsing activity to a given user session, allowing people to visit websites without logging in repeatedly. Cookies also facilitate __personalization__, where websites "remember" your preferences and actions. Websites utilize personalization cookies to send targeted advertisements and track your location.
+Cookies are [small files that a website generates and sends to a browser]((https://www.cloudflare.com/learning/privacy/what-are-cookies/)). They associate browsing activity to a given user session, allowing people to visit websites without logging in repeatedly. Cookies also facilitate __personalization__, where websites "remember" your preferences and actions. Websites utilize personalization cookies to send targeted advertisements and track your location.
 
-Website cache data refers to offline website data that your browser stores. By preloading content like webpages and images, subsequent visits to a website becomes faster. Unlike cookies, a cache does not expire and must be manually cleared. If you are concerned about digital forensics, consider clearing it.
+Website cache data [refers to offline website data that your browser stores](https://learn.g2.com/what-is-cached-data). By preloading content like webpages and images, subsequent visits to a website becomes faster. Unlike cookies, a cache does not expire and must be manually cleared. If you are concerned about [digital forensics](https://hawkeyeforensic.com/2024/03/30/browser-forensics-examining-browser-artifacts/), consider clearing it.
 
-Similarly, your browsing history must be deleted. As its name suggest, your web browser keeps a record of all visited websites offline. Your internet service provider could still view your history; however, you might want to prevent access from someone living with you.
+Similarly, your browsing history must be deleted. As its name suggest, your web browser keeps a record of all visited websites offline. Your [internet service provider could still view your history](https://www.androidauthority.com/isp-tracking-1167088/); however, you might want to prevent access from someone living with you.
 
 ## Clearing Browsing Data on Google Chrome
 
