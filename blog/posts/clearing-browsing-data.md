@@ -37,44 +37,47 @@ _Screenshot: Google Home Page_
 
 You should see the following menu.
 
-![Article cover photo showing baked cookies](../assets/images/clearing-browsing-data/chromesettings.png)
+![alttext](../assets/images/clearing-browsing-data/chromesettings.png)
 _Screenshot: Google Chrome Settings_
 
 On the left, navigate to ****Privacy and Security****. You should see the following screen.
 
-![Article cover photo showing baked cookies](../assets/images/clearing-browsing-data/chrome.png])
+![alttext](../assets/images/clearing-browsing-data/chrome.png])
 _Screenshot: Google Chrome Settings_
 
 Click ****Delete browsing data.**** Here, you can check whether to clear your ****browsing history****, ****cookies****, and ****cached images & file****s. Chrome also allows you select the ****time range**** of the data marked for deletion.
 
-![Article cover photo showing baked cookies](../assets/images/clearing-browsing-data/chromesettings1.png)
+![alttext](../assets/images/clearing-browsing-data/chromesettings1.png)
 _Screenshot: Google Chrome Settings_
 
 After making any necessary changes, click ****Delete data****.
 
-![Article cover photo showing baked cookies](../assets/images/clearing-browsing-data/chromedelete.png)
+![alttext](../assets/images/clearing-browsing-data/chromedelete.png)
 _Screenshot: Google Chrome Settings_
 
 ### Mozilla Firefox
 
 Start by launching ****Firefox****. On the upper right-hand corner, click on the ****[placeholder three bars] icon**** to see a list of options. There, click on ****Settings****.
 
-
-Screenshot: Privacy Guides Homepage
+![alttext](../assets/images/clearing-browsing-data/firefox2.png)
+_Screenshot: Privacy Guides Homepage_
 
 On the left, navigate to ****Privacy and Security****. You should see the following screen.
 
-Screenshot: Firefox Settings
+![alttext](../assets/images/clearing-browsing-data/firefox1.png)
+_Screenshot: Firefox Settings_
 
 Scroll down to ****Cookies and Site Data****.
 
-Screenshot: Firefox Settings
+![alttext](../assets/images/clearing-browsing-data/firefoxdelete1.png)
+_Screenshot: Firefox Settings_
 
 You have the option of either clearing your browsing data within a time range or in selected websites. Note that the latter deletes the website's cookies and cache, not history.
 
-Screenshot: Firefox Settings
+![alttext](../assets/images/clearing-browsing-data/firefoxdata2.png)
+_Screenshot: Firefox Settings_
 
-Click on ****Clear data**** if you prefer the former. Similarly to Google Chrome, you can chose what types of data to delete and its time range. After making your selection, click ****Clear**** to finalize the process.
+Click on ****Clear data**** if you prefer the former. Like Google Chrome, you can chose what types of data to delete and its time range. After making your selection, click ****Clear**** to finalize the process.
 
 ### Apple Safari
 
@@ -82,26 +85,35 @@ Unlike Chrome and Firefox, Safari separates history settings from its privacy se
 
 After opening Safari, move your cursor to the upper left-hand corner. Click ****History**** once the title bar appears.
 
+![alttext](../assets/images/clearing-browsing-data/safari2.png)
 Screenshot: Privacy Guides Homepage
 
 If you want to clear browsing history in a specified time range, select ****Clear History**** at the bottom and follow the prompt. Otherwise, click ****Show All History****.
 
+![alttext](../assets/images/clearing-browsing-data/history.png)
 Screenshot: Safari Settings
 
 In this menu, you can choose websites to delete from your history. Use the search bar to find the exact name of the website. You can also navigate to a specific data and time.
 
-Screenshot: Safari Settings
 
-Now, delete the cookies and cache data. Move your cursor to the title bar again and click ****Safari**** to see a drop down menu. Then, click ****Settings****.
+Now, lets delete the cookies and cache data. Move your cursor to the title bar again and click ****Safari**** to see a drop down menu.
 
-Screenshot: Privacy Guides Homepage
+![alttext](../assets/images/clearing-browsing-data/safaritoolbar.png)
+_Screenshot: Safari Titlebar_
+
+Then, click ****Settings****. You should see this screen.
+
+![alttext](../assets/images/clearing-browsing-data/safarisettings.png)
+_Screenshot: Safari Settings_
 
 Navigate to ****Privacy**** and click ****Manage Website Data...****
 
+![alttext](../assets/images/clearing-browsing-data/.png)
 Screenshot: Safari Settings
 
 You should see another menu with a list of websites and their corresponding browsing data types. As always, you can mark specified websites for deletion.
 
+![alttext](../assets/images/clearing-browsing-data/safaridata.png)
 Screenshot: Safari Settings
 
 Once you are done, click ****Remove****.
