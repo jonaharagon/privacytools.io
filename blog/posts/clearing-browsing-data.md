@@ -26,7 +26,7 @@ Website cache data refers to offline website data that your browser stores. By p
 
 Similarly, your browsing history must be deleted. As its name suggest, your web browser keeps a record of all visited websites offline. Your internet service provider could still view your history; however, you might want to prevent access from someone living with you.
 
-## How to Clear Browsing Data
+## Clearing Browsing Data
 
 ### Google Chrome
 
