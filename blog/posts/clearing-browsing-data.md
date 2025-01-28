@@ -82,7 +82,7 @@ _Screenshot: Firefox Settings_
 Scroll down to ****Cookies and Site Data****.
 
 
-![alttext](../assets/images/clearing-browsing-data/firefoxdelete1.png)
+![alttext](../assets/images/clearing-browsing-data/firefoxcookies.png)
 _Screenshot: Firefox Settings_
 
 
