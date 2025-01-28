@@ -13,8 +13,8 @@ description: A beginner's guide to clearing browsing data - such as cookies, web
 schema_type: AnalysisNewsArticle
 ---
 # How to Clear Your Browsing Data on Chrome, Firefox, and Safari
-
-Credit: Unsplashed
+![...assets/images/clearing-browsing-data/dimmis-vart-JPu345g_OYM-unsplash.jpg]
+_Credit: Unsplashed_
 
 Your browsing data — such as cache, cookies, and browsing history — can accumulate over time, potentially damaging your privacy. Whether you trying to free up storage, limit tracking, or protect yourself from digital forensics, clearing browsing data is an important first step on your privacy journey. In this guide, we will explain how to clear your browsing data on three popular web browsers: Chrome, Firefox, and Safari.
 
@@ -30,19 +30,30 @@ Similarly, your browsing history must be deleted. As its name suggest, your web 
 
 ### Google Chrome
 
-To start, ****launch**** Google Chrome. On the upper right-hand corner, click on the ****[placeholder three dots] icon**** to see a list of options. There, click on ****Settings****
+To start, ****launch**** Google Chrome. On the upper right-hand corner, click on the ****[placeholder three dots] icon**** to see a list of options. Then, click on ****Settings****
 
-Screenshot: Google Home Page
+![...assets/images/clearing-browsing-data/chrome1.png]
+_Screenshot: Google Home Page_
+
+You should see the following menu.
+
+![...assets/images/clearing-browsing-data/chromesettings.png]
+_Screenshot: Google Chrome Settings_
 
 On the left, navigate to ****Privacy and Security****. You should see the following screen.
 
-Screenshot: Google Chrome Settings
+![...assets/images/clearing-browsing-data/chrome.png]
+_Screenshot: Google Chrome Settings_
 
 Click ****Delete browsing data.**** Here, you can check whether to clear your ****browsing history****, ****cookies****, and ****cached images & file****s. Chrome also allows you select the ****time range**** of the data marked for deletion.
 
-Screenshot: Google Settings
+![...assets/images/clearing-browsing-data/chromesettings1.png]
+_Screenshot: Google Chrome Settings_
 
 After making any necessary changes, click ****Delete data****.
+
+![...assets/images/clearing-browsing-data/chromedelete.png]
+_Screenshot: Google Chrome Settings_
 
 ### Mozilla Firefox
 
