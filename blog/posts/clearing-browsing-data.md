@@ -135,13 +135,8 @@ _Screenshot: Safari Settings_
 Navigate to ****Privacy**** and click ****Manage Website Data...****
 
 
-![alttext](../assets/images/clearing-browsing-data/.png)
-Screenshot: Safari Settings
-
-
-You should see another menu with a list of websites and their corresponding browsing data types. As always, you can mark specified websites for deletion.
-
 ![alttext](../assets/images/clearing-browsing-data/safaridata.png)
 Screenshot: Safari Settings
 
-Once you are done, click ****Remove****.
+
+You should see another menu with a list of websites and their corresponding browsing data types. As always, you can mark specified websites for deletion. Once you are done, click ****Remove****.
