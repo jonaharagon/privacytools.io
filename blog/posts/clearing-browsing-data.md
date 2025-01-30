@@ -52,7 +52,7 @@ After making any necessary changes, click ____Delete data____.
 
 ## Clearing Browsing Data on Firefox
 
-Start by launching ____Firefox____. On the upper right-hand corner, click on the ____[placeholder three bars] icon____ to see a list of options. There, click on ____Settings____.
+Start by launching ____Firefox____. On the upper right-hand corner, click on the ____three-dot icon____ to see a list of options. There, click on ____Settings____.
 
 ![Screenshot: Firefox browser with Privacy Guides Homepage](../assets/images/clearing-browsing-data/firefox2.png)
 
